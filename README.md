@@ -121,7 +121,7 @@ Wiele z tych problemów wymaga indywidualnego podejścia i specjalistycznej wied
 ## Tom Sapletta
 
 Na co dzień DevOps i ewangelista hipermodularyzacji, oferuję wsparcie techniczne dla startupów i specjalistów.
-Posiadam globalne doświadczenie w research-u i wdrażaniu nowatorskich, 
+Posiadam globalne doświadczenie w research-u i wdrażaniu i utrzymaniu systemów informatycznych. 
 Ułatwiam dopasowanie rozwiązania do potrzeb, zapraszam:
 
 + [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
