@@ -1,13 +1,11 @@
 # [100 najczęstszych technicznyh problemów z domenami internetowymi](http://100.askdomainer.com)
 
 
-Wiele problemów wymaga indywidualnego podejścia i specjalistycznej wiedzy technicznej, dlatego ważne jest, by w razie potrzeby zasięgać porady u ekspertów w tej dziedzinie, im szybciej tym lepiej, zapraszam:
-+ [Pomoc askDomainer](https://oferta.askdomainer.com/)
-  
-Poniżej przygotowałem listę 100 najczęściej występujących problemów, z którymi mogę pomóc.
-
 Lista problemów podczas pracy z domenami internetowymi, hostingami, certyfikatami SSL, zarządzaniem wieloma subdomenami, konfiguracją DNS/NS/Wildcard, serwerami proxy, Nginx, Let's Encrypt, TTL, SSH oraz FTP.
 
+Wiele problemów wymaga indywidualnego podejścia i specjalistycznej wiedzy technicznej, dlatego ważne jest, by w razie potrzeby zasięgać porady u ekspertów w tej dziedzinie, im szybciej tym lepiej, zapraszam:
+Poniżej przygotowałem listę 100 najczęściej występujących problemów, z którymi mogę pomóc -> [Pomoc askDomainer](https://oferta.askdomainer.com/)
+  
 1. Problemy z rejestracją domeny.
 2. Problemy z odnowieniem domeny po upływie jej ważności.
 3. Długie propagowanie zmian DNS.
@@ -122,9 +120,9 @@ Wiele z tych problemów wymaga indywidualnego podejścia i specjalistycznej wied
 
 ## Tom Sapletta
 
-Na co dzień DevOps i ewangelista hipermodularyzacji.
-Łączy doświadczenie w programowaniu i research-u poprzez wdrażanie nowatorskich rozwiązań. 
-Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w branży owocują pozatechnicznymi treściami jak powyższy raport.
+Na co dzień DevOps i ewangelista hipermodularyzacji, oferuję wsparcie techniczne dla startupów i specjalistów.
+Posiadam globalne doświadczenie w research-u i wdrażaniu nowatorskich, 
+Ułatwiam dopasowanie rozwiązania do potrzeb, zapraszam:
 
 + [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
 + [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
