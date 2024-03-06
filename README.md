@@ -1,4 +1,4 @@
-# [100.askdomainer.com - 100 najczęstszych technicznyh problemów z domenami internetowymi](http://100.askdomainer.com)
+# [100 najczęstszych technicznyh problemów z domenami internetowymi](http://100.askdomainer.com)
 
 
 Wiele problemów wymaga indywidualnego podejścia i specjalistycznej wiedzy technicznej, dlatego ważne jest, by w razie potrzeby zasięgać porady u ekspertów w tej dziedzinie, im szybciej tym lepiej, zapraszam:
