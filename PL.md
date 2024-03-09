@@ -1,4 +1,4 @@
-# [100 najczęstszych technicznyh problemów z domenami internetowymi](http://100.askdomainer.com)
+# [100 najczęstszych technicznyh problemów z domenami internetowymi](http://100.askdomainer.com/PL)
 
 
 Lista problemów podczas pracy z domenami internetowymi, hostingami, certyfikatami SSL, zarządzaniem wieloma subdomenami, konfiguracją DNS/NS/Wildcard, serwerami proxy, Nginx, Let's Encrypt, TTL, SSH oraz FTP.
