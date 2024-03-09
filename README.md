@@ -83,4 +83,81 @@ Below I have prepared a list of the 100 most common problems that I can help wit
 75. IMAP/SMTP mail server configuration errors.
 76. Problems with managing user sessions in web applications.
 77. Security issues when submitting form data.
-78. Complications during merging
+78. Complications when merging and minifying JS/CSS files.
+79. Problems configuring the Python virtual environment via venv.
+80. Difficulty managing asynchronous tasks and queues.
+81. Errors in content security policy (CSP) settings.
+82. Problems with processing large files by PHP scripts.
+83. Difficulties with automatic generation of a sitemap (sitemap.xml).
+84. Problems with configuring the firewall on the server.
+85. Complications when integrating content management systems (CMS) with external services.
+86. Problems with destination traffic routing using VPN.
+87. Issues related to managing read/write rights in the file system.
+88. Errors when configuring object storage services (e.g. Amazon S3).
+89. Problems logging in to the CMS administration panel.
+90. Issues related to Linux kernel updates without affecting the operation of websites.
+91. Problems with exceeding the limit of concurrent connections to the database.
+92. Errors in managing package dependencies in Node.js (npm, yarn).
+93. Difficulties using WebSockets for interactive web applications.
+94. Problems with selecting the appropriate type of servers for the specific nature of the project.
+95. Configuration and management of remote access to the database.
+96. Errors when integrating monitoring systems (e.g. Nagios, Zabbix) with the IT infrastructure.
+97. Problems with multi-domain SSL configuration in one certificate.
+98. Difficulty managing server clusters to handle heavy loads.
+99. Problems with network bandwidth management and traffic optimization.
+100. Complications when migrating websites between different hosting providers without downtime.
+
+Many of these problems require an individual approach and specialized technical knowledge, so it is important to seek advice from experts in this field when necessary.
++ [askDomainer Help](https://oferta.askdomainer.com/)
+
+
+
+---
+
+
+
+![image](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/24abdad9-5aff-4834-95a0-d7215cc6e0bc)
+
+## Tom Sapletta
+
+DevOps and hypermodularization evangelist on a daily basis, I offer technical support for startups and specialists.
+I have global experience in research, implementation and maintenance of IT systems.
+I make it easier to tailor the solution to your needs, please visit:
+
++ [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
++ [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
++ [askDomainer Help](https://oferta.askdomainer.com/)
+
+### Other Reports:
+
++ [The labor market in the EU from the perspective of a Pole - Report 2024 - How has the labor market changed in the last decade? How will the market change by 2030?](https://2024.teleworking.info/)
++ [Object detection in vision systems - Report 2024 - How has the market for vision systems in industrial applications changed in the last decade? How will the market change by 2030?](https://2024.teleoperator.info/)
+
+---
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js"></script>
+<script>
+var config = {
+    startOnReady:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+mermaid.init(undefined, '.language-mermaid');
+</script>
+
+<script type="module">
+    /**
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'dark'
+  });
+  */
+</script>
