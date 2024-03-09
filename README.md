@@ -4,7 +4,7 @@
 List of problems when working with Internet domains, hosting, SSL certificates, managing multiple subdomains, DNS/NS/Wildcard configuration, proxies, Nginx, Let's Encrypt, TTL, SSH and FTP.
 
 Many problems require an individual approach and specialized technical knowledge, so it is important to seek advice from experts in this field, if necessary, the sooner the better, please visit:
-Below I have prepared a list of the 100 most common problems that I can help with -> [askDomainer Help](https://oferta.askdomainer.com/)
+Below I have prepared a list of the 100 most common problems that I can help with -> [askDomainer Help](https://offer.askdomainer.com/)
   
 1. Problems with domain registration.
 2. Problems with renewing the domain after its expiration.
